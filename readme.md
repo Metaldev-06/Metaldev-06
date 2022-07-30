@@ -1,5 +1,5 @@
 <div>
-<h1 class="title">Hola, mi nombre es Fernando Diaz <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50" height="50"></h1>
+<h1 class="title">Hola, mi nombre es Fernando Diaz <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" width="30" height="30"></h1>
 
 <img src="https://cdn.discordapp.com/attachments/963137601152364554/1002719968237985792/Black_Modern_Personal_LinkedIn_Banner_1500_500_px.png">
 <br><br>
@@ -12,30 +12,38 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="300">
 
 </div>
 <hr>
 
-<h2>Puedes encontrarme en: <img src="https://c.tenor.com/JO4sqBp4t44AAAAj/dm4uz3-foekoe.gif" width="25" height="25"></h2>
+<h2>Puedes encontrarme en: <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
 <a href="https://www.linkedin.com/in/fernandodiaz62/" target="_blank">
-<img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50"></img>
+<img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
 </a>
 
 <a href="https://twitter.com/MetalDev_06" target="\_blank">
-<img src="https://img.icons8.com/color/344/twitter-squared.png" width="50" height="50"></img>
+<img src="https://img.icons8.com/color/344/twitter-squared.png" width="50" height="50">
 </a>
 
 <a href="https://www.instagram.com/fernydiaz62/" target="_blank">
-<img src="https://img.icons8.com/fluency/344/instagram-new.png" width="50" height="50"></img>
+<img src="https://img.icons8.com/fluency/344/instagram-new.png" width="50" height="50">
 </a>
 
-<a href="https://drive.google.com/file/d/1MMY3plmfma0Bf55K4N4tcxXwW_n5_WOR/view?usp=sharing" target="_blank">
-<img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50"></img>
+<a href="https://drive.google.com/file/d/1LKO6nSTm61gestLCn65MiSPsUDvQJja7/view?usp=sharing" target="_blank">
+<img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
 </a>
 <hr>
 
+<div align="">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=white)
 
+</div>
+
+<div align="">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldev-06&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
