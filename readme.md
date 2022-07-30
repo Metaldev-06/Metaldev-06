@@ -15,7 +15,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
 
 </div>
-<hr>
+<br>
 <div align="center">
 <h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25">Puedes encontrarme en<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
 <a href="https://www.linkedin.com/in/fernandodiaz62/" target="_blank">
@@ -36,16 +36,10 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 </div>
 
-<hr>
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=nord)
 
 </div>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldev-06&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
