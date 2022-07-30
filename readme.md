@@ -12,7 +12,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 <div align="center">
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="300">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
 
 </div>
 <hr>
