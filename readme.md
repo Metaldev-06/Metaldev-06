@@ -3,7 +3,13 @@
 <hr>
 <img src="https://cdn.discordapp.com/attachments/963137601152364554/1002719968237985792/Black_Modern_Personal_LinkedIn_Banner_1500_500_px.png">
 <br><br>
+
+<div align="justify">
+
 Estudiante de programación, en busca de una oportunidad para adquirir experiencia y mejorar mis habilidades en el área del desarrollo web, me interesaría trabajar como Fullstack, pero actualmente me manejo más en el mundo del front y estoy formandome día a día para ir mejorando mis habilidades en el back. Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en aprender.
+
+</div>
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300">
@@ -16,12 +22,16 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 <img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50"></img>
 </a>
 
-<a href="https://twitter.com/MetalDev_06" target="_blank">
+<a href="https://twitter.com/MetalDev_06" target="\_blank">
 <img src="https://img.icons8.com/color/344/twitter-squared.png" width="50" height="50"></img>
 </a>
 
 <a href="https://www.instagram.com/fernydiaz62/" target="_blank">
 <img src="https://img.icons8.com/fluency/344/instagram-new.png" width="50" height="50"></img>
+</a>
+
+<a href="https://drive.google.com/file/d/1LKO6nSTm61gestLCn65MiSPsUDvQJja7/view?usp=sharing" target="_blank">
+<img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50"></img>
 </a>
 <hr>
 
