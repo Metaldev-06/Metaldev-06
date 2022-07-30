@@ -1,6 +1,6 @@
 <div>
 <h1 class="title">Hola, mi nombre es Fernando Diaz <img src="https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width="50" height="50"></h1>
-<hr>
+
 <img src="https://cdn.discordapp.com/attachments/963137601152364554/1002719968237985792/Black_Modern_Personal_LinkedIn_Banner_1500_500_px.png">
 <br><br>
 
