@@ -18,6 +18,8 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 <br>
 <div align="center">
 <h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+  
+<br>
 <a href="https://www.linkedin.com/in/fernandodiaz62/" target="_blank">
 <img src="https://img.icons8.com/fluency/344/linkedin.png" width="50" height="50">
 </a>
