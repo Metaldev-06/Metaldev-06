@@ -1,5 +1,5 @@
 <div>
-<h1 align="center"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" width="30" height="30"> Hola, mi nombre es Fernando Diaz <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/person-raising-hand_light-skin-tone_1f64b-1f3fb_1f3fb.png" width="30" height="30"></h1>
+<h1 align="center"><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="30" height="30"> Hola, mi nombre es Fernando Diaz <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="30" height="30"></h1>
 
 <img src="https://cdn.discordapp.com/attachments/963137601152364554/1002719968237985792/Black_Modern_Personal_LinkedIn_Banner_1500_500_px.png">
 <br><br>
@@ -12,7 +12,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 <div align="center">
 
-<img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
 
 </div>
 <br>
