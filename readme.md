@@ -17,7 +17,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 </div>
 <br>
 <div align="center">
-<h2><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
+<h2><img src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
   
 
 <a href="https://www.linkedin.com/in/fernandodiaz62/" target="_blank">
@@ -39,7 +39,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 </div>
 
 <br>
-<h2 align="center"><img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/fire_1f525.png" width="30" height="30"> Estadísticas <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/fire_1f525.png" width="30" height="30"></h2>
+<h2 align="center"><img src="https://em-content.zobj.net/source/microsoft-teams/337/fire_1f525.png" width="30" height="30"> Estadísticas <img src="https://em-content.zobj.net/source/microsoft-teams/337/fire_1f525.png" width="30" height="30"></h2>
 
 <div align="center">
 
