@@ -43,7 +43,6 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=nord)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=transparent)
 
 
