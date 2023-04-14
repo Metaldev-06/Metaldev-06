@@ -32,7 +32,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 <img src="https://img.icons8.com/fluency/344/instagram-new.png" width="50" height="50">
 </a>
 
-<a href="https://drive.google.com/file/d/1cO0pyLEFgbWn09EaK4WKw3awlQi-3Yo6/view?usp=sharing" target="_blank">
+<a href="https://www.metaldev.software/assets/file/CV-Diaz-Fernando.pdf" target="_blank">
 <img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
 </a>
 
