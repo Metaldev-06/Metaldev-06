@@ -1,7 +1,7 @@
 <div>
 <h1 align="center"><img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="30" height="30"> Hola, mi nombre es Fernando Diaz <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" width="30" height="30"></h1>
 
-<img src="https://cdn.discordapp.com/attachments/442011718235848707/1096505752543297596/MetalDev_1.png">
+<img src="https://cdn.discordapp.com/attachments/442011718235848707/1096505752543297596/MetalDev_1.png" style="border-radius:5px">
 <br><br>
 
 <div align="justify">
