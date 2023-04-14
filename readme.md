@@ -20,7 +20,7 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 <h2><img src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"> Puedes encontrarme en <img src="https://em-content.zobj.net/source/microsoft-teams/337/backhand-index-pointing-down_light-skin-tone_1f447-1f3fb_1f3fb.png" width="25" height="25"></h2>
   
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/FernandoDiaz#6666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fernydiaz62/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernandodiaz62/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/home) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fernydiaz62/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandodiaz62/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MetalDev_06) 
 
 <a href="https://www.metaldev.software/assets/file/CV-Diaz-Fernando.pdf" target="_blank">
 <img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
