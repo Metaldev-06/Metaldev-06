@@ -43,7 +43,9 @@ Estudiante de programación, en busca de una oportunidad para adquirir experienc
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metaldev-06&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Metaldev-06&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Metaldev-06&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Metaldev-06&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 </div>
