@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Estudiante de programación, en busca de una oportunidad para adquirir experiencia y mejorar mis habilidades en el área del desarrollo web, me interesaría trabajar como Fullstack, pero actualmente me manejo más en el mundo del front y estoy formandome día a día para ir mejorando mis habilidades en el back. Me agrada trabajar en equipo, cooperando con todos y ayudando de la mejor manera posible, con gran satisfacción en aprender.
+Técnico Superior en Programación especializado en desarrollo web full stack con enfoque en front-end. Apasionado por la tecnología y soluciones creativas. Comunicación efectiva y capacidad para trabajar bajo presión. Siempre aprendiendo y explorando nuevas tecnologías para mejorar habilidades. Buscando oportunidades en entornos desafiantes y dinámicos.
 
 </div>
 
