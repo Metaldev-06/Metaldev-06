@@ -22,7 +22,7 @@ Auxiliar en Programación, especializado en el desarrollo web front-end. Apasion
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fernydiaz62/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandodiaz62/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MetalDev_06) 
 
-<a href="https://firebasestorage.googleapis.com/v0/b/metaldev-portfolio.appspot.com/o/pdf%2FFernando-Diaz-resume-eng.pdf?alt=media&token=a4a0643e-9120-41db-b0e3-8387f334690f" target="_blank">
+<a target="_blank" href="https://firebasestorage.googleapis.com/v0/b/metaldev-portfolio.appspot.com/o/pdf%2FFernando-Diaz-resume-eng.pdf?alt=media&token=a4a0643e-9120-41db-b0e3-8387f334690f" target="_blank">
 <img src="https://img.icons8.com/fluency/344/resume.png" width="50" height="50">
 </a>
 
