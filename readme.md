@@ -6,7 +6,7 @@
 
 <div align="justify">
 
-Auxiliar en Programación, especializado en el desarrollo web front-end. Apasionado por la tecnología y soluciones innovadoras. Habilidad para comunicar eficazmente y trabajar bajo presión. Explorador incesante de tecnologías vanguardistas para potenciar mis habilidades. En búsqueda de oportunidades en entornos desafiantes y dinámicos.
+Técnico Superior en Programación, especializado en el desarrollo web front-end. Apasionado por la tecnología y soluciones innovadoras. Habilidad para comunicar eficazmente y trabajar bajo presión. Explorador incesante de tecnologías vanguardistas para potenciar mis habilidades. En búsqueda de oportunidades en entornos desafiantes y dinámicos.
 
 </div>
 
